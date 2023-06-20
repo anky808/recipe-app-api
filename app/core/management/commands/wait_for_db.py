@@ -25,3 +25,4 @@ class Command(BaseCommand):
 
         self.stdout.write(self.style.SUCCESS('Database available'))
         
+        
